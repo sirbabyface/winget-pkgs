@@ -2,7 +2,7 @@
 # yaml-language-server: $schema=https://aka.ms/winget-manifest.installer.1.1.0.schema.json
 
 PackageIdentifier: MKLabs.StarUML
-PackageVersion: 5.1.0
+PackageVersion: 6.0.1
 Platform:
 - Windows.Desktop
 MinimumOSVersion: 10.0.0.0
@@ -13,7 +13,7 @@ InstallModes:
 UpgradeBehavior: install
 Installers:
 - Architecture: neutral
-  InstallerUrl: https://staruml.io/api/download/releases-v5/StarUML%20Setup%205.1.0.exe
-  InstallerSha256: eef05ce960fc292f4fa34536cae4a03eeb18ce11dfc091e764ad1c32e30d3243
+  InstallerUrl: https://staruml.io/api/download/releases-v6/StarUML%20Setup%206.0.1.exe
+  InstallerSha256: 438DBB7F718EBDEF0B08791915AB2A43E0868EE650A262141A4C8422D30147DF
 ManifestType: installer
 ManifestVersion: 1.1.0
